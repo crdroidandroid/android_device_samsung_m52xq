@@ -326,3 +326,14 @@ vendor/firmware/wlan/m526b/rev4/wpss.b05|34e40286f679a58384d5095231fafa9603ff1bf
 vendor/firmware/wlan/m526b/rev4/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
 vendor/firmware/wlan/m526b/rev4/wpss.b07|4372aacb9af3627e2fcc1193925679e375da5bb6
 vendor/firmware/wlan/m526b/rev4/wpss.mdt|959e1e4fd90b549d8bdbc47cba72337f1b104968
+
+# Wifi firmware (bootloader revision 4) - from M526BRXXU4CXD1 (T)
+vendor/firmware/wlan/m526br/rev4/wpss.b00|211ee71b55a02033c6493d5a0df309ba60b0d65e
+vendor/firmware/wlan/m526br/rev4/wpss.b01|75b1fb2677f4ae89d6a0032d784caf6b3627fc75
+vendor/firmware/wlan/m526br/rev4/wpss.b02|23f79b84a90cfbe97ed7997240ce8f78dbcb205e
+vendor/firmware/wlan/m526br/rev4/wpss.b03|d69f06f12f6286f0f371e6fc8b31fd1787aac4c8
+vendor/firmware/wlan/m526br/rev4/wpss.b04|b889cdee89b3ceb052cdd0652624a624577cdb97
+vendor/firmware/wlan/m526br/rev4/wpss.b05|e50413c5b5417608141aeda831308c75c62ac667
+vendor/firmware/wlan/m526br/rev4/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
+vendor/firmware/wlan/m526br/rev4/wpss.b07|0793548dfe2cdbd593c529ac2c002316630f553c
+vendor/firmware/wlan/m526br/rev4/wpss.mdt|afb5e12cc5cae66fc343f26cb51327a64589c2be
